@@ -92,9 +92,7 @@ p {
 }
 
 .SecondSection {
-  margin-top: 22px;
-  height: 750px;
-  flex-shrink: 0;
+ 
   display: inline-flex;
   padding: 114px 40px;
   flex-direction: column;
